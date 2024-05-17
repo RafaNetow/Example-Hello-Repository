@@ -1,3 +1,3 @@
 # Example-Hello-Repository
-Example Repostiory
-Hello
+Example Repository
+
